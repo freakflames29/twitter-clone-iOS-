@@ -14,6 +14,7 @@
 		330F1C102C0B90EB006580F9 /* twitter_cloneTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 330F1C0F2C0B90EB006580F9 /* twitter_cloneTests.swift */; };
 		330F1C1A2C0B90EB006580F9 /* twitter_cloneUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 330F1C192C0B90EB006580F9 /* twitter_cloneUITests.swift */; };
 		330F1C1C2C0B90EB006580F9 /* twitter_cloneUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 330F1C1B2C0B90EB006580F9 /* twitter_cloneUITestsLaunchTests.swift */; };
+		33E51AF92C0CD858002C966F /* SplashScreenView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33E51AF82C0CD858002C966F /* SplashScreenView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		330F1C152C0B90EB006580F9 /* twitter_cloneUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = twitter_cloneUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		330F1C192C0B90EB006580F9 /* twitter_cloneUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = twitter_cloneUITests.swift; sourceTree = "<group>"; };
 		330F1C1B2C0B90EB006580F9 /* twitter_cloneUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = twitter_cloneUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		33E51AF82C0CD858002C966F /* SplashScreenView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SplashScreenView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 			children = (
 				330F1BFE2C0B90EA006580F9 /* twitter_cloneApp.swift */,
 				330F1C002C0B90EA006580F9 /* ContentView.swift */,
+				33E51AF82C0CD858002C966F /* SplashScreenView.swift */,
 				330F1C022C0B90EB006580F9 /* Assets.xcassets */,
 				330F1C042C0B90EB006580F9 /* Preview Content */,
 			);
@@ -259,6 +262,7 @@
 			files = (
 				330F1C012C0B90EA006580F9 /* ContentView.swift in Sources */,
 				330F1BFF2C0B90EA006580F9 /* twitter_cloneApp.swift in Sources */,
+				33E51AF92C0CD858002C966F /* SplashScreenView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
